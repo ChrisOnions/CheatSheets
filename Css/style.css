@@ -1,0 +1,28 @@
+.frequent {
+  color: aliceblue;
+  background-color: aqua;
+  background-image: none;
+  display: flex; /* grid or none */
+  height: auto;
+  width: auto;
+  min-width: none;
+  max-height: none;
+  margin: auto;
+  margin-top: auto; /* bottom, left, right */
+  padding: 1px;
+  border: solid red 1px; /* style color and sixe  */
+  border-radius: 5px; /* For rouded corners */
+  /* Fonts */
+  font: 600;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif; /* Defines fonts */
+  font-style: italic;
+  font-weight: 800; /* Thickness of font */
+  /* Postion */
+  position: absolute;
+  position: relative;
+  position: sticky;
+  /* Priority */
+  z-index: 1;
+  z-index: 999;
+}
