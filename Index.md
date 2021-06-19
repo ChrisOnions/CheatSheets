@@ -50,22 +50,17 @@
 
 # TODO: ADD
 
-- C.R.U.D.
-- Add Docs
-- [Promise](##Promise-)
-- [Promise-all](##Promise-all)
-- [ES6 Classes](#Es6_Classes)
-- [Express](#Express)
-- [Express-Yourself](#Express_Yourself)
-- [Routes](#Routes)
-- [MySQL](#MySQL)
-- [ORM](#Object-relational-mapping)
-- [Sequelize](#sequelize)
-- [CRUD](#CRUD)
-- [Async-Await](#Async-Await)
-- [Restfull-Routes](#Restfull-Routes)
-- [Password-Hashing](#Password-Hashing)
-- [Relationships](#Relationships)
-- [Sessions](#Sessions)
-- [Cookies](#Cookies)
-  <br>
+- Add Docs To all items
+
+| items to add                          | more items                          |
+| :------------------------------------ | ----------------------------------- |
+| [Promise](##Promise-)                 | [Promise-all](##Promise-all)        |
+| [ES6 Classes](#Es6_Classes)           | [Express](#Express)                 |
+| [Express-Yourself](#Express_Yourself) | [CRUD](#CRUD)                       |
+| [Sequelize](#sequelize)               | [ORM](#Object-relational-mapping)   |
+| [MySQL](#MySQL)                       | [Routes](#Routes)                   |
+| [Async-Await](#Async-Await)           | [Restfull-Routes](#Restfull-Routes) |
+| [Password-Hashing](#Password-Hashing) | [Relationships](#Relationships)     |
+| [Sessions](#Sessions)                 | [Cookies](#Cookies)                 |
+
+<br>
