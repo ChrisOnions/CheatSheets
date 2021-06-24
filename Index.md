@@ -1,8 +1,6 @@
-## Resources
+# Resources
 
----
-
-# HTML
+## HTML
 
 | Scripts                                | Description |    Index |
 | :------------------------------------- | :---------: | -------: |
@@ -10,7 +8,7 @@
 
 <br>
 
-# Css
+## Css
 
 | Scripts                    | Description |    Index |
 | :------------------------- | :---------: | -------: |
@@ -18,7 +16,7 @@
 
 <br>
 
-# JavaScript
+## JavaScript
 
 | Scripts                                  |    Description     |    Index |
 | :--------------------------------------- | :----------------: | -------: |
@@ -32,7 +30,7 @@
 
 <br>
 
-# Command line
+## Command line
 
 | Scripts                              | Description |    Index |
 | :----------------------------------- | :---------: | -------: |
@@ -46,13 +44,14 @@
 ## CSS
 
 [Normalize CSS](https://ageek.dev/normalize-css)
-<br><br><br><br><br><br><br><br>
+
+<br><br>
 
 # TODO: ADD
 
 - Add Docs To all items
 
-| items to add                          | more items                          |
+| Items to add                          | More items                          |
 | :------------------------------------ | ----------------------------------- |
 | [Promise](##Promise-)                 | [Promise-all](##Promise-all)        |
 | [ES6 Classes](#Es6_Classes)           | [Express](#Express)                 |
